@@ -11,7 +11,7 @@ To Run the Project follow the steps below:
 `source todo-env/bin/activate`
 
 > Install all required packages:  
-`pip install -r requirement.txt`
+`pip3 install -r requirement.txt`
 
 > To run the program go into todo-cli directory and run make run command:  
 `cd todo-cli`  
