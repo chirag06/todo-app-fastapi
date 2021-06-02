@@ -29,3 +29,11 @@ To Run the Project follow the steps below:
 
 > To test the API:  
 `make test` or `pytest`
+
+As fastapi is based on OpenApi framework, it comes with two automatic documentation. 
+> Swagger UI link:  
+`127.0.0.1:8000/docs`
+
+> Alternative API docs:   
+`http://127.0.0.1:8000/redoc`
+
